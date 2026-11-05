@@ -1,6 +1,6 @@
 # enade-success-predictor
 
-Construção de um modelo de machine learning, do zero até a otimização.
+Construção de um modelo de machine learning, do zero até a otimização, com base no dataset Student Performance (Kaggle), adaptado para um contexto educacional brasileiro, no qual o objetivo é prever o desempenho acadêmico dos alunos por meio de uma nota simulada do ENADE.
 
 ## Problema e solução
 
